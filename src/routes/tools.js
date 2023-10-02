@@ -98,7 +98,7 @@ export let tools = {
     ,
     'text-to-speech-&-speech-recognition': {
         name: 'Text to Speech & Speech Recognition',
-        icon: 'whatsapp',
+        icon: 'tts',
         link: '/text-to-speech-&-speech-recognition',
         description: "When choosing an app to transcribe speech to text and text to speech, quality is important. Our application delivers accurate text to speech and speech to text transcriptions that support multiple languages. Our transcription technology can convert speech to text and vice versa with a strong accuracy level and instantaneous result. It can produce multiple voices in multiple languages and recognize speech in multiple languages."
     }
